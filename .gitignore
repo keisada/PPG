@@ -1,0 +1,16 @@
+# Unreal
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/Android/
+Build/IOS/
+*.pdb
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+.DS_Store
+Thumbs.db
